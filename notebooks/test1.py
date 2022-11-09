@@ -9,6 +9,8 @@ print("Hello World")
 
 print("Another Hello World")
 
+# COMMAND ----------
+
 # MAGIC %sql
 # MAGIC 
 # MAGIC select * from samples.nyctaxi.trips;
