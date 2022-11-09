@@ -6,3 +6,5 @@
 # COMMAND ----------
 
 print("Hello World")
+
+print("Another Hello World")
