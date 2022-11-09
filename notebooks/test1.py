@@ -15,4 +15,6 @@ print("Another Hello World")
 # MAGIC 
 # MAGIC select * from samples.nyctaxi.trips;
 
+# COMMAND ----------
+
 print('here is another hello');
